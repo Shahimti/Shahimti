@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Shahimti12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kH8U-idVgDCTjeWNV6XE0kxupXguiIN4/view?usp=sharing](https://drive.google.com/file/d/1kH8U-idVgDCTjeWNV6XE0kxupXguiIN4/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1n1P2Fn3zVFsf4t-iDOnnh2TaEqJBPwBQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
