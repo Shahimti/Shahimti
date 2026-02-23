@@ -1,10 +1,6 @@
 <h1 align="center">Hello. I'm Shah Imtiaz</h1>
 <h3 align="center">An aspiring analyst proficient in Excel, Power BI, MS Project & SQL.</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Data Analytics, SQL & Python**
-
 - 📫 How to reach me **Shahimti12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
