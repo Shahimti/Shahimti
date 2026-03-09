@@ -9,7 +9,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -17,7 +16,7 @@
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 </a>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
