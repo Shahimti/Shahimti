@@ -1,5 +1,5 @@
 <h1 align="center">Hello. I'm Shah Imtiaz</h1>
-<h3 align="center"> Business & Financial Analyst proficient in Excel, Power BI, Python & SQL.</h3>
+<h3 align="center"> Business & Financial Analyst proficient in Excel, Power BI & SQL.</h3>
 
 - 📫 How to reach me **Shahimti12@gmail.com**
 
